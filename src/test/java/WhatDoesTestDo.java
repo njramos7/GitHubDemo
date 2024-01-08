@@ -24,7 +24,7 @@ public class WhatDoesTestDo {
 
     @Test
     public void example1() {
-        int var = 1;
+        int var = 2;
 
         // verify var has value 1
         assertEquals(1, var);
